@@ -1,6 +1,3 @@
-require 'Simplecov'
-SimpleCov.start
-
 require 'singleton'
 require_relative 'book'
 

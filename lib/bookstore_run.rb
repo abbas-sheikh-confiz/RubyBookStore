@@ -1,6 +1,3 @@
-require 'Simplecov'
-SimpleCov.start
-
 require_relative 'bookstore'
 
 # BookStore Execution
